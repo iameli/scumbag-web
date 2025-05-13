@@ -4,13 +4,13 @@
     "https://w3id.org/security/multikey/v1",
     "https://w3id.org/security/suites/secp256k1-2019/v1"
   ],
-  "id": "did:web:web.scumb.ag",
-  "alsoKnownAs": ["at://web.scumb.ag"],
+  "id": "did:web:didweb.scumb.ag",
+  "alsoKnownAs": ["at://didweb.scumb.ag"],
   "verificationMethod": [
     {
-      "id": "did:web:web.scumb.ag#atproto",
+      "id": "did:web:didweb.scumb.ag#atproto",
       "type": "Multikey",
-      "controller": "did:web:web.scumb.ag",
+      "controller": "did:web:didweb.scumb.ag",
       "publicKeyMultibase": "zDnaek1EUUUBMiJKcLW3rbxwS5FHhpc63bYKd2mud1Ugzemnh"
     }
   ],
