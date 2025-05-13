@@ -11,7 +11,7 @@
       "id": "did:web:didweb.scumb.ag#atproto",
       "type": "Multikey",
       "controller": "did:web:didweb.scumb.ag",
-      "publicKeyMultibase": "zDnaek1EUUUBMiJKcLW3rbxwS5FHhpc63bYKd2mud1Ugzemnh"
+      "publicKeyMultibase": "zQ3shvoNBAbP7kVWTAfd5irE7VrboJPjD3vxwdCH1vmHEXHJG"
     }
   ],
   "service": [
