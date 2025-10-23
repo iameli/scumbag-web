@@ -18,7 +18,7 @@
     {
       "id": "#atproto_pds",
       "type": "AtprotoPersonalDataServer",
-      "serviceEndpoint": "https://iame.li"
+      "serviceEndpoint": "https://pds.iame.li"
     }
   ]
 }
