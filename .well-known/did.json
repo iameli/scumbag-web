@@ -18,7 +18,7 @@
     {
       "id": "#atproto_pds",
       "type": "AtprotoPersonalDataServer",
-      "serviceEndpoint": "https://pds.iame.li"
+      "serviceEndpoint": "https://iameli.com"
     }
   ]
 }
